@@ -1,30 +1,21 @@
-# 🚀 Atyabiz
+<p align="center">
+  <img
+   src="https://github.com/user-attachments/assets/bf332f96-b6a3-4e5e-a183-38df44784dda"
+    alt="Logo"
+    style="vertical-align: middle;"
+  />
+</p>
 
-Building scalable, modern, and future-ready digital solutions.
+<p align="center">
+  ⚡ AI-powered toolkit for web & mobile, right from CI/CD.
+</p>
 
-## 🌐 What We Do
-We specialize in:
-- Web Development (MERN, Next.js)
-- Mobile App Development
-- AI-powered Solutions
-- Cloud & DevOps
-- Blockchain & Web3
-
-## 🧠 Our Mission
-To help businesses grow through clean code, smart design, and reliable technology.
-
-## 🛠 Tech Stack
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express, MongoDB, PostgreSQL
-- Cloud: AWS, Vercel
-- Tools: Docker, GitHub Actions
-
-## 🤝 Work With Us
-We collaborate with startups, enterprises, and creators worldwide.
-
-📩 Contact: contact@atyabiz.com  
-🌍 Website: https://atyabiz.com
-
-## ⭐ Open Source
-We believe in sharing knowledge and building in public.
-Check out our repositories and contribute!
+<p align="center">
+  <a href="https://github.com/your-org">Repo</a>
+  ·
+  <a href="https://yourwebsite.com">Website</a>
+  ·
+  <a href="https://discord.gg/yourlink">Discord</a>
+  ·
+  <a href="https://docs.yourwebsite.com">Docs</a>
+</p>
